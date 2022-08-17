@@ -1,13 +1,13 @@
 # Eyes
 ## A fun exercise to make the green eyes follow your mouse around the computer screen
 
-By using the .onmousemove event, each eyeball <div> will follow your cuser around the screen.
+<b>By using the *.onmousemove event*, each eyeball <div> will follow your cuser around the screen.</b>
 
-A cool way to practice DOM manipulation!
+  <b>A cool way to practice DOM manipulation!</b>
 
 MIT License
 
-Copyright (c) 2022 Molly Treadwell
+Copyright (c) 2022
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
